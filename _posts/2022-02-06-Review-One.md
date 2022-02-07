@@ -16,8 +16,8 @@ Livingstone online: illuminating imperial exploration (LO) is an online library 
 
 The site is meant to be more of a library, or an archive of David Livingstone. As a result, it doesn’t look like a typical website. Instead, you look around and find the information you want about Livingstone. It’s a great design idea for a website, however it’s not clear from the home page that it is about an explorer name David Livingstone. First you must go to the about website tab and click on the introduction to learn about the site’s purpose. 
 
-![about website](https://yashitaprasad.github.io/digitalhumanities/images/aboutwebsite.png)
-![about page](https://yashitaprasad.github.io/digitalhumanities/images/aboutpage.png)
+![about website](https://yashitaprasad.github.io/digitalhumanities/images/aboutwebsite.jpg)
+![about page](https://yashitaprasad.github.io/digitalhumanities/images/aboutpage.jpg)
 
 One way to fix this problem would be to put it in the site’s title (Livingstone Online – Life and Works of David Livingstone) or link the ‘about website’ article to the home page. That way people can immediately find out what the site is about. Then viewers can look up the information they want about David Livingstone. 
 Another confusing aspect of the website were the tab titles. Life and times are simple enough. However, if the reader doesn’t know who Livingstone is, they may not understand why spectral imaging or in his own words is relevant to the explorer.  For example, when I clicked on in his own words, I assumed it may be a diary/journal entry of some kind. Instead, there were articles about his manuscripts. About how his literary work impacted the exploration narrative in the 18th century. Maybe under the more ambiguous headings the creators could describe it more or change it to something more universally understood. 
