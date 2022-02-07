@@ -8,7 +8,7 @@ Adrian S. Wisnicki
 
 **Project URL:**
 
-https://livingstoneonline.org/
+(https://livingstoneonline.org/)
 
 Livingstone online: illuminating imperial exploration (LO) is an online library and museum about the work of explorer David Livingstone. This site aims to bring light to Livingston’s life work and amplify the voices of black historians and explorers.
 
