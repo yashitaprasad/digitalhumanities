@@ -37,4 +37,4 @@ The writing in each article is done well. LO provides the sources they used for 
 
 ![image placement](https://yashitaprasad.github.io/digitalhumanities/images/imageplacement.png)
 
-LO did lack some of the sophistication and organization needed for a website. However, it was a great informational source on David Livingstone. There were a variety of primary  sources explained in the website. Everything from letters, to Livingstone's literary works. The wesite creators put a lot of effort into compiling and gathering information on David Livingston and it shows.  
+LO did lack some of the sophistication and organization needed for a website. However, it was a great informational source on David Livingstone. There were a variety of primary  sources explained in the website. Everything from letters, to Livingstone's literary works. The wesite creators put a lot of effort into compiling information on David Livingston, and it showed throughout the website.  
