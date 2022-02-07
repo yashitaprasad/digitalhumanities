@@ -30,6 +30,6 @@ It didn’t really make sense to title a whole section spectral imaging (SI). SI
 
 The information on each article is done well. LO provides the sources they used for each article. If the reader goes through the tabs the tabs in left to right order they can see the life, and contributions of David Livingstone in chronologically. The image placement in the articles is well done and illustrates the point of the writing. For example, the article titled “Livingstone's 1871 Field Diary”, speaks about a reporter trying to locate Livingstone and when the reporter finally found Livingstone he said “"Dr. Livingstone, I presume?", and under that paragraph it has a picture of the same quote. Which I thought was good image placement. 
 
-![image placement](https://yashitaprasad.github.io/digitalhumanities/images/Screenshot (129).jng)
+![image placement](https://yashitaprasad.github.io/digitalhumanities/images/Screenshot(129).jng)
 
 Even though it is not meant for the average viewer, they could’ve shorted the word count on some of the articles to make it more accessible for student and scholars looking for information about David Livingstone. LO did lack some of the sophistication and organization needed for a website. However, it was a great informational source on David Livingstone. The Website creators put a lot of time an energy into compiling and gathering information on David Livingston and it shows.  
