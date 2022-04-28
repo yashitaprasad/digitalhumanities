@@ -4,7 +4,7 @@ I’ve had a great time this semester taking this course. I wasn’t too familia
 The readings we did for homework were great for the most part. They varied from short stories, advice on how to write a grant, and DH, projects. The ones I found the most helpful were the articles that advised how to approach grant writing, and the DH projects. They helped expand my view of Digital Humanities outside the classroom, and how the concepts we learned in class were applied in different settings. For example, Katherine Hepworth and Christopher Church, “Racism in the Machine: Visualization Ethics in Digital Humanities Projects” showed how the way technology is used could indicate implicit bias. Everything from the colors used in a project, to the way data is represented in a project could impact the way the audience views the information. 
 
 
-![map](https://yashitaprasad.github.io/digitalhumanities/images/Screenshot(143)_LI.jpg)
+![map](https://yashitaprasad.github.io/digitalhumanities/images/Screenshot (143)_LI.jpg)
 
 Some of the reading while offering great information, were longer and more tedious to get through. For example, Charlotte Roueché, “Why Do We Mark up Texts?” provided great historical context for why we annotate the materials we are reading. However, it was eight pages long and repeated the same points. It didn’t really provide new information, because annotating to some extent is self-explanatory. The article was well written, which was good. Overall, despite my concerns I still enjoyed reading the material. 
 
