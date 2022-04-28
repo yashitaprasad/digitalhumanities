@@ -9,7 +9,7 @@ The readings we did for homework were great for the most part. They varied from 
 Some of the reading while offering great information, were longer and more tedious to get through. For example, Charlotte Roueché, “Why Do We Mark up Texts?” provided great historical context for why we annotate the materials we are reading. However, it was eight pages long and repeated the same points. It didn’t really provide new information, because annotating to some extent is self-explanatory. The article was well written, which was good. Overall, despite my concerns I still enjoyed reading the material. 
 
 
-![livingstone](https://yashitaprasad.github.io/digitalhumanities/images/markup.png)
+![markup](https://yashitaprasad.github.io/digitalhumanities/images/markup.png)
 
 The readings supplemented my understanding of the course, by expanding what type of writings and projects could be under Digital Humanities. Another interesting assignment was reviewing a DH related website. This was great because we looked in depth into a project of our choosing and examining whether they met the criteria of a good DH website. This was helpful because I used what I learned from doing this project and applied to my grant proposal to make sure my own project was a good DH project. 
 
